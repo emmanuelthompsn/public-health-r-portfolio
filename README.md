@@ -29,8 +29,7 @@ I am now developing expertise in biostatistics and data analysis, applying data-
 - No significant difference in mean BMI between groups (p = 0.38).  
 
 **Files:**  
-- [`exercises/2025-10-27_cancer_analysis_basics.R`](exercises/2025-10-27_cancer_analysis_basics.R)
-
+https://github.com/emmanuelthompsn/public-health-r-portfolio/tree/6652a3c2eb30b80e2da79798121e200b59efe309/Excercises
 
 ---
 
